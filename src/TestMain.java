@@ -21,13 +21,13 @@ public class TestMain {
 			return !str.isEmpty();
 		};
 		boolean name1 = pr.test(name);
-		System.out.println("your NAME is " + name1);
+		System.out.println("your NAME " + name + " IS ==>" + name1);
 
 		Predicate<Integer> pr1 = (i) -> {
 			return i > 0;
 		};
 		boolean result1 = pr1.test(id);
-		System.out.println("your ID IS " + result1);
+		System.out.println("your ID " + id + " IS ==>" + result1);
 
 	}
 
