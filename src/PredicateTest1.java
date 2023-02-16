@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.function.Predicate;
 
-public class Test {
+public class PredicateTest1 {
 	private static Scanner sc;
 	static {
 		sc = new Scanner(System.in);
