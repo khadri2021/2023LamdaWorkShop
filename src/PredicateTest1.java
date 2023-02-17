@@ -16,7 +16,6 @@ public class PredicateTest1 {
 			}
 		};
 		System.out.println("Please Enter Your Age : ");
-		System.out.println("Please Enter Your Age : ");
 
 		boolean test = predicate.test(sc.nextInt());
 		if (test) {
