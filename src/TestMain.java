@@ -28,6 +28,7 @@ public class TestMain {
 		};
 		boolean result1 = pr1.test(id);
 		System.out.println("your ID " + id + " IS ==>" + result1);
+		System.out.println();
 
 	}
 
