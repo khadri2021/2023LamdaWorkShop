@@ -1,3 +1,4 @@
+package com.khadri.functional.java;
 import java.util.function.Predicate;
 
 public class PredicateTest2 {
