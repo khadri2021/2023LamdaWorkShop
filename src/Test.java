@@ -7,5 +7,6 @@ public class Test {
 		System.out.println("hai");
 		
 		System.out.println("some changes");
+		System.out.println("hello github");
 	}
 }
