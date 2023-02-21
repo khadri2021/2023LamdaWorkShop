@@ -2,8 +2,8 @@ package predicateandfunction;
 
 public class Register {
 
-	String name;
-	Integer amount;
+	private String name;
+	private Integer amount;
 	public String getName() {
 		return name;
 	}

@@ -1,9 +1,9 @@
 package predicateandfunction;
 
 public class RegId {
-	String regId;
-	String name;
-	Integer amount;
+	private String regId;
+	private String name;
+	private Integer amount;
 
 	public RegId(String regId) {
 		super();
