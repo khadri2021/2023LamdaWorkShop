@@ -6,9 +6,6 @@ public class TestMain {
 
 	public static void main(String[] args) {
 
-		System.out.println("WELCOME TO TEST MAIN....");
-		System.out.println("");
-
 		System.out.println("ENTER YOUR NAME ");
 		String name = sc.next();
 		System.out.println("ENTER YOUR ID ");
@@ -28,7 +25,6 @@ public class TestMain {
 		};
 		boolean result1 = pr1.test(id);
 		System.out.println("your ID " + id + " IS ==>" + result1);
-		System.out.println();
 
 	}
 
